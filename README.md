@@ -1,7 +1,7 @@
 # 🧠SoulSync - Anonymous Mental Health App
 
 **A safe and supportive space for mental wellness.**  
-Built for students, by students, this app combines the power of technology with compassion to help users manage their mental health, track progress, and connect anonymously. 🌈
+Built for students, by students, this app combines the power of technology with compassion to help users manage their mental health, track progress, and connect anonymously. 
 
 ---
 
@@ -24,9 +24,9 @@ Built for students, by students, this app combines the power of technology with 
 ---
 
 ## 👥 Contributors
-- Mitiksha Paliwal (Project Lead)
 - Abhisar Behera
 - Aditya Roy
 - Bhagyesh Sutar
+- Mitiksha Paliwal
 - Tanvee Palit
 - Vedant Thakur
