@@ -2,7 +2,7 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./frontend/index.ts",
   "scripts": {
     "dev:backend": "tsx watch backend/src/index.ts",
     "build": "tsc",
