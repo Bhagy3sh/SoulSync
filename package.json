@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "**A safe and supportive space for mental wellness.**  \r Built for students, by students, this app combines the power of technology with compassion to help users manage their mental health, track progress, and connect anonymously.",
   "main": "./frontend/index.ts",
   "scripts": {
     "dev:backend": "tsx watch backend/src/index.ts",
@@ -18,21 +18,25 @@
   "dependencies": {
     "@expo/webpack-config": "^19.0.1",
     "@prisma/client": "^5.22.0",
+    "@react-native-picker/picker": "^2.11.0",
+    "@react-navigation/native": "^7.0.15",
+    "@react-navigation/native-stack": "^7.2.1",
     "axios": "^1.7.7",
     "expo": "~52.0.11",
+    "expo-constants": "~17.0.3",
+    "expo-linking": "~7.0.3",
+    "expo-router": "~4.0.9",
     "expo-status-bar": "~2.0.0",
     "express": "^4.21.1",
     "react": "18.3.1",
     "react-dom": "^18.3.1",
     "react-native": "0.76.3",
+    "react-native-calendars": "^1.1310.0",
+    "react-native-safe-area-context": "^4.12.0",
+    "react-native-screens": "~4.1.0",
     "react-native-web": "^0.19.13",
     "react-router-dom": "^7.0.1",
-    "tsx": "^4.19.2",
-    "expo-router": "~4.0.9",
-    "react-native-safe-area-context": "4.12.0",
-    "react-native-screens": "~4.1.0",
-    "expo-linking": "~7.0.3",
-    "expo-constants": "~17.0.3"
+    "tsx": "^4.19.2"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
