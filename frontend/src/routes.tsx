@@ -28,6 +28,7 @@ const AppRoutes = () => {
         <Router>
             <Routes>
                 <Route path="/" element={<Home />} />
+                <Route path="/home" element={<Home />} />
                 <Route path="/about" element={<About />} />
                 <Route path="/badges_streaks" element={<BadgesStreaks />} />
                 <Route path="/calendar" element={<CalendarInput />} />
